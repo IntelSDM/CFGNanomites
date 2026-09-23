@@ -1,0 +1,12 @@
+#pragma once
+#include <windows.h>
+#include <cstdio>
+#include <cstdint>
+#include <cstring>
+#include <cstddef>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <stdexcept>
+#include <algorithm>
+#include <random>
